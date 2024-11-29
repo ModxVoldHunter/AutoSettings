@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\slimb\\source\\repos\\AutoSettings\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1C74BC-A32D-44C4-BA11-01A82E0D0481}|AutoSettings.csproj|c:\\users\\slimb\\source\\repos\\autosettings\\commandline\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1C74BC-A32D-44C4-BA11-01A82E0D0481}|AutoSettings.csproj|solutionrelative:commandline\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1C74BC-A32D-44C4-BA11-01A82E0D0481}|AutoSettings.csproj|c:\\users\\slimb\\source\\repos\\autosettings\\commandline\\commandlist\\gradleinstall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1C74BC-A32D-44C4-BA11-01A82E0D0481}|AutoSettings.csproj|solutionrelative:commandline\\commandlist\\gradleinstall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1C74BC-A32D-44C4-BA11-01A82E0D0481}|AutoSettings.csproj|c:\\users\\slimb\\source\\repos\\autosettings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1C74BC-A32D-44C4-BA11-01A82E0D0481}|AutoSettings.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1C74BC-A32D-44C4-BA11-01A82E0D0481}|AutoSettings.csproj|c:\\users\\slimb\\source\\repos\\autosettings\\autosettings.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C1C74BC-A32D-44C4-BA11-01A82E0D0481}|AutoSettings.csproj|solutionrelative:autosettings.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gradleinstall.cs",
+              "DocumentMoniker": "C:\\Users\\slimb\\source\\repos\\AutoSettings\\CommandLine\\commandlist\\gradleinstall.cs",
+              "RelativeDocumentMoniker": "CommandLine\\commandlist\\gradleinstall.cs",
+              "ToolTip": "C:\\Users\\slimb\\source\\repos\\AutoSettings\\CommandLine\\commandlist\\gradleinstall.cs",
+              "RelativeToolTip": "CommandLine\\commandlist\\gradleinstall.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:12:11.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "commands.cs",
+              "DocumentMoniker": "C:\\Users\\slimb\\source\\repos\\AutoSettings\\CommandLine\\commands.cs",
+              "RelativeDocumentMoniker": "CommandLine\\commands.cs",
+              "ToolTip": "C:\\Users\\slimb\\source\\repos\\AutoSettings\\CommandLine\\commands.cs",
+              "RelativeToolTip": "CommandLine\\commands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T03:47:10.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutoSettings.csproj",
+              "DocumentMoniker": "C:\\Users\\slimb\\source\\repos\\AutoSettings\\AutoSettings.csproj",
+              "RelativeDocumentMoniker": "AutoSettings.csproj",
+              "ToolTip": "C:\\Users\\slimb\\source\\repos\\AutoSettings\\AutoSettings.csproj",
+              "RelativeToolTip": "AutoSettings.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-29T02:01:16.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\slimb\\source\\repos\\AutoSettings\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\slimb\\source\\repos\\AutoSettings\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T22:47:38.953Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

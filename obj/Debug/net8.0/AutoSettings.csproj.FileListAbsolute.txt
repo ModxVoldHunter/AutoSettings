@@ -1,0 +1,14 @@
+C:\Users\slimb\source\repos\AutoSettings\obj\Debug\net8.0\AutoSettings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slimb\source\repos\AutoSettings\obj\Debug\net8.0\AutoSettings.AssemblyInfoInputs.cache
+C:\Users\slimb\source\repos\AutoSettings\obj\Debug\net8.0\AutoSettings.AssemblyInfo.cs
+C:\Users\slimb\source\repos\AutoSettings\obj\Debug\net8.0\AutoSettings.csproj.CoreCompileInputs.cache
+C:\Users\slimb\source\repos\AutoSettings\bin\Debug\net8.0\AutoSettings.exe
+C:\Users\slimb\source\repos\AutoSettings\bin\Debug\net8.0\AutoSettings.deps.json
+C:\Users\slimb\source\repos\AutoSettings\bin\Debug\net8.0\AutoSettings.runtimeconfig.json
+C:\Users\slimb\source\repos\AutoSettings\bin\Debug\net8.0\AutoSettings.dll
+C:\Users\slimb\source\repos\AutoSettings\bin\Debug\net8.0\AutoSettings.pdb
+C:\Users\slimb\source\repos\AutoSettings\obj\Debug\net8.0\AutoSettings.dll
+C:\Users\slimb\source\repos\AutoSettings\obj\Debug\net8.0\refint\AutoSettings.dll
+C:\Users\slimb\source\repos\AutoSettings\obj\Debug\net8.0\AutoSettings.pdb
+C:\Users\slimb\source\repos\AutoSettings\obj\Debug\net8.0\AutoSettings.genruntimeconfig.cache
+C:\Users\slimb\source\repos\AutoSettings\obj\Debug\net8.0\ref\AutoSettings.dll
