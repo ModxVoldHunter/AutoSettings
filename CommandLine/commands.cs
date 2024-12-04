@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AutoSettings.CommandLine.commands;
+namespace AutoSettings;
 
 internal class commands
 {   public commands()
@@ -12,19 +12,12 @@ internal class commands
         Program program = new Program();
         commands commands = new commands();
         Console.WriteLine("Welcome to " + program.Name + program.Version);
+     }
 
 
-        }
-
-    public string gradlew()
+    public static byte[] Gradle_path()
     {
-        Program program = new Program();
-        return program.Gradle = "https://github.com/gradle/gradle/releases/latest";
+        gradleinstall gradleinstall = new gradleinstall();
+        return Encoding.UTF8.GetBytes(gradleinstall.GradlePATH);
     }
-    
-
-    public string GradlePATH = "C:\\Windows\\Program Files\\installs\\Gradle\\";
-    public string PATH = "C:\\Windows\\Program Files\\installs\\";
-
-
 }
